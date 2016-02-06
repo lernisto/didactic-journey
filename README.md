@@ -5,4 +5,6 @@ Pay no attention to that man behind the curtain.
 
 I consider myself a 'go-bie'. I moved from 'interested' to 'committed' after listening to some of Rob Pike's talks on the language.  In time, I hope to become a 'gopher', and possibly even a 'go-ru' (in 10-15 years).
 
+I still love Python, but it has now become my second-favorite language. With a go mindset, some of the shiny parts of Python seem not quite so shiny anymore, even primitive in some cases.
+
 This repo will probably be of no interest to anyone but myself.  I promise the code will be horrible. (So don't use it as an example.)  I do *expect* the code to improve over time.  If a particular piece of work becomes usable, I will break it out into another repo.
